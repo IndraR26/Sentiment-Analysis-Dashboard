@@ -11,6 +11,9 @@ Word Cloud ☁️ → Kata-kata paling sering muncul di ulasan positif & negatif
 Rating & Price Analysis 💰 → Hubungan harga produk dengan rating. <br>
 Popular & Unpopular Products 📈📉 → Produk dengan rating & penjualan tertinggi/rendah. <br><br> 
 
+🖼️ Screenshot Dashboard <br>
+![Dashboard Preview](Preview/dashboard_overview.png) <br><br>
+
 📌 Tools yang Digunakan <br>
 Power BI → Untuk visualisasi data. <br>
 Python (Pandas, WordCloud, Matplotlib) → Untuk preprocessing teks & analisis word cloud. <br>
