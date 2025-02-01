@@ -2,7 +2,7 @@
 Repository for Tokopedia Customer Review Sentiment Analysis <br> <br> 
 
 📌 Deskripsi <br>
-Dashboard ini menganalisis sentimen ulasan pelanggan di Tokopedia. Dataset yang digunakan pada dashboard ini diambil dari kaggle website https://www.kaggle.com/datasets/jocelyndumlao/prdect-id-indonesian-emotion-classification. Dashboard ini dibuat dengan menggunakan Power BI untuk visualisasi data dan python untuk preprocessing data. <br> <br> 
+Dashboard ini menganalisis sentimen ulasan pelanggan di Tokopedia. Dataset yang digunakan pada dashboard ini diambil dari kaggle website https://www.kaggle.com/datasets/jocelyndumlao/prdect-id-indonesian-emotion-classification. Dashboard ini dibuat dengan menggunakan Power BI untuk visualisasi data, DAX untuk perhitungan metrik di power BI dan python untuk preprocessing data. <br> <br> 
 
 📊 Fitur-Fitur Dashboard <br>
 Sentiment Distribution 📊 → Persentase sentimen positif & negatif. <br> 
