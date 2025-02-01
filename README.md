@@ -1,2 +1,2 @@
 # Tokopedia-Sentiment-Analysis-Dashboard
-Repository for Dashboard Portofolio
+Repository for Tokopedia Customer Review Sentiment Analysis
